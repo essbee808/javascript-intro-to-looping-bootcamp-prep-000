@@ -18,3 +18,7 @@ function whileLoop(countdown) {
     console.log(--countdown);
   } return 'done';
 }
+
+function doWhileLoop() {
+  
+}
