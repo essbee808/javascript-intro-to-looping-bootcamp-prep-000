@@ -19,6 +19,6 @@ function whileLoop(countdown) {
   } return 'done';
 }
 
-function doWhileLoop() {
+function doWhileLoop(array) {
   
 }
